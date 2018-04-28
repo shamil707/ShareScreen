@@ -12,7 +12,7 @@
 		2B4EBD4AFED3FC558CEEA2E53CA2F873 /* Pods-ShareScreen_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5108C648837B56A468AC3B345A5CFBBB /* Pods-ShareScreen_Tests-dummy.m */; };
 		391BA5250E1666BC82A3EB82C4D24D30 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		3F16907A9FD7185BF46880723CC7CE3B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		4876EB405E1877E2041FC876B00E8383 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449B0FBD544808DCCC1C3059C9676BA9 /* ReplaceMe.swift */; };
+		40F70C4D2094BDAD000CB938 /* ShareScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F70C4C2094BDAD000CB938 /* ShareScreen.swift */; };
 		4E61780A734F94C84381FC0D5041E5BB /* ShareScreen-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B825AAD78F38DEC0BD4D9197A191D654 /* ShareScreen-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7831EA6EC6F79FF907070B114F33B59D /* ShareScreen-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DBE6600FA6EAF02D9F019CCDDD6AC52 /* ShareScreen-dummy.m */; };
 		7B14BC611EAF871EDF38BE986FA7DD15 /* Pods-ShareScreen_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EB4ADD50589652B23602DD240D1AACF2 /* Pods-ShareScreen_Example-dummy.m */; };
@@ -41,26 +41,26 @@
 		0308CADB227861C7A0AD424D1A31E16D /* Pods-ShareScreen_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ShareScreen_Example.modulemap"; sourceTree = "<group>"; };
 		0D3074C9941D4CE7381298D560868B58 /* Pods-ShareScreen_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ShareScreen_Tests-umbrella.h"; sourceTree = "<group>"; };
 		106E1D588C3C5BE5D8E7AC255A6C264C /* Pods-ShareScreen_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ShareScreen_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		14305E3EB556E3E9D54EB40AEFC01438 /* Pods_ShareScreen_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ShareScreen_Tests.framework; path = "Pods-ShareScreen_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		14305E3EB556E3E9D54EB40AEFC01438 /* Pods_ShareScreen_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ShareScreen_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DBE6600FA6EAF02D9F019CCDDD6AC52 /* ShareScreen-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ShareScreen-dummy.m"; sourceTree = "<group>"; };
 		203B1D79384436B00CC07ED6502EC361 /* Pods-ShareScreen_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ShareScreen_Tests.modulemap"; sourceTree = "<group>"; };
 		20F7BA7FC29B538C306D0BC5929AEF96 /* ShareScreen-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ShareScreen-prefix.pch"; sourceTree = "<group>"; };
 		26B4F459244A7BAC88CDEC716F39E41D /* ShareScreen.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ShareScreen.modulemap; sourceTree = "<group>"; };
 		31BECCD95BD305A3B7206226FE701C92 /* Pods-ShareScreen_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ShareScreen_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		40CBFB6382C606A5ECAAC6BE027AA89D /* Pods-ShareScreen_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ShareScreen_Tests-resources.sh"; sourceTree = "<group>"; };
-		449B0FBD544808DCCC1C3059C9676BA9 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = ShareScreen/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		40F70C4C2094BDAD000CB938 /* ShareScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareScreen.swift; sourceTree = "<group>"; };
 		45BFDA6D7AFD33CDA6738DB8ED2D466A /* Pods-ShareScreen_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ShareScreen_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		4826F98AAA8C99D44570D9E0AFEA81CC /* Pods-ShareScreen_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ShareScreen_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		5108C648837B56A468AC3B345A5CFBBB /* Pods-ShareScreen_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ShareScreen_Tests-dummy.m"; sourceTree = "<group>"; };
 		5CB4B7D17F304900464B5A9440F6A2E1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		696535FD20D4E03F0B017E3A2E5C2DF6 /* Pods-ShareScreen_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ShareScreen_Example-frameworks.sh"; sourceTree = "<group>"; };
-		8015F4ED1ABAB6B22E7C21E6B49E60D6 /* Pods_ShareScreen_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ShareScreen_Example.framework; path = "Pods-ShareScreen_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		832DA4490F34CD3046E14596413BE9AD /* ShareScreen.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ShareScreen.framework; path = ShareScreen.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		88030824948EB5BD1FE0124827604C2A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		8015F4ED1ABAB6B22E7C21E6B49E60D6 /* Pods_ShareScreen_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ShareScreen_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		832DA4490F34CD3046E14596413BE9AD /* ShareScreen.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ShareScreen.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		88030824948EB5BD1FE0124827604C2A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		8A3404CA4945C7223116965C16D58C6C /* Pods-ShareScreen_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ShareScreen_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		93C3EF0E76946926E2539DF0C7BF507C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93C3EF0E76946926E2539DF0C7BF507C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		97607031EA418585687C7BFAFC54DACE /* Pods-ShareScreen_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ShareScreen_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		9915D301B331A7676624AAAE83B2AB95 /* Pods-ShareScreen_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ShareScreen_Example-resources.sh"; sourceTree = "<group>"; };
 		A18323C9D4592F2B9693A7C1E905BE31 /* Pods-ShareScreen_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ShareScreen_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -71,7 +71,7 @@
 		DA5F18618C1A86C977CE1E253922A541 /* Pods-ShareScreen_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ShareScreen_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		EB4ADD50589652B23602DD240D1AACF2 /* Pods-ShareScreen_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ShareScreen_Example-dummy.m"; sourceTree = "<group>"; };
 		FC47ABAD9B698DCFF213032C27A7C525 /* ShareScreen.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ShareScreen.xcconfig; sourceTree = "<group>"; };
-		FC5EAF750FD5B4559AD4015CE78B7617 /* ShareScreen.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = ShareScreen.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		FC5EAF750FD5B4559AD4015CE78B7617 /* ShareScreen.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = ShareScreen.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +105,7 @@
 		150C6C55D4D2B4F72EE3211AE178B457 /* ShareScreen */ = {
 			isa = PBXGroup;
 			children = (
-				449B0FBD544808DCCC1C3059C9676BA9 /* ReplaceMe.swift */,
+				40F70C4B2094BD9D000CB938 /* Classes */,
 				187B8670831B20E379B28DD8F0A723DA /* Pod */,
 				22B4A49E312A7F83380039A6C3524587 /* Support Files */,
 			);
@@ -153,6 +153,14 @@
 			);
 			name = "Pods-ShareScreen_Example";
 			path = "Target Support Files/Pods-ShareScreen_Example";
+			sourceTree = "<group>";
+		};
+		40F70C4B2094BD9D000CB938 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				40F70C4C2094BDAD000CB938 /* ShareScreen.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		6620FBE67C21738A2CC2F905FA5244EE /* Targets Support Files */ = {
@@ -318,6 +326,11 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
+				TargetAttributes = {
+					40783CEB290C7618FB2407AABD2FBF96 = {
+						LastSwiftMigration = 0920;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -343,7 +356,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4876EB405E1877E2041FC876B00E8383 /* ReplaceMe.swift in Sources */,
 				7831EA6EC6F79FF907070B114F33B59D /* ShareScreen-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -353,6 +365,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7B14BC611EAF871EDF38BE986FA7DD15 /* Pods-ShareScreen_Example-dummy.m in Sources */,
+				40F70C4D2094BDAD000CB938 /* ShareScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -387,6 +400,7 @@
 			baseConfigurationReference = 45BFDA6D7AFD33CDA6738DB8ED2D466A /* Pods-ShareScreen_Example.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -411,6 +425,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -675,6 +690,7 @@
 			baseConfigurationReference = A18323C9D4592F2B9693A7C1E905BE31 /* Pods-ShareScreen_Example.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -698,6 +714,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
