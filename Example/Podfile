@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ShareScreen_Example' do
+  pod 'ShareScreen', :path => '../'
+
+  target 'ShareScreen_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
