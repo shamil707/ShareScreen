@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ShareScreen'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Share help us to take ScreenSot and Share the image'
 
 # This description is used to generate tags and improve search results.
