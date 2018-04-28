@@ -1,0 +1,16 @@
+PODS:
+  - ShareScreen (0.1.0)
+
+DEPENDENCIES:
+  - ShareScreen (from `../`)
+
+EXTERNAL SOURCES:
+  ShareScreen:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ShareScreen: 36c5ece444110a2b11d2170f4bf0034fad954099
+
+PODFILE CHECKSUM: 2748c6324f11ea955a2c3d0aadcbe978e3bf5603
+
+COCOAPODS: 1.5.0

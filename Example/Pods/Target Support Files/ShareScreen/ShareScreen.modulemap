@@ -1,0 +1,6 @@
+framework module ShareScreen {
+  umbrella header "ShareScreen-umbrella.h"
+
+  export *
+  module * { export * }
+}

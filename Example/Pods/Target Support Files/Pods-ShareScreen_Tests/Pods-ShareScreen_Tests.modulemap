@@ -1,0 +1,6 @@
+framework module Pods_ShareScreen_Tests {
+  umbrella header "Pods-ShareScreen_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
